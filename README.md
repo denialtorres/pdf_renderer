@@ -1,10 +1,8 @@
 # PdfRenderer
 
-Short description and motivation.
+A repo for building out the examples described in Crafting Rails 4 Applications: Expert Practices for Everyday Rails Development
 
-## Usage
-
-How to use my plugin.
+Chapter 1: Building our own renderer; understanding Rails plugins
 
 ## Installation
 
